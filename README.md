@@ -26,18 +26,6 @@
 open sun.html
 ```
 
-或使用本地服务器：
-
-```bash
-# Python 3
-python -m http.server 8000
-
-# Node.js
-npx serve
-
-# 访问 http://localhost:8000/sun.html
-```
-
 ## 🛠️ 技术栈
 
 - **Three.js** - 3D 渲染引擎（v0.160.0）
